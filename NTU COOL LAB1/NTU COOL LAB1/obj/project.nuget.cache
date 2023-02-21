@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2w5Tmzl9TedEmy3PAcDiOvSdSCzoyGswe8wIjshGaXs7v+o03Yve5miHddLqfjyEsFqJBTWx8I5/sSTxxht/rQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nicole Chen\\Documents\\大學資料\\C#\\NTU COOL LAB1\\NTU COOL LAB1\\NTU COOL LAB1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nicole Chen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

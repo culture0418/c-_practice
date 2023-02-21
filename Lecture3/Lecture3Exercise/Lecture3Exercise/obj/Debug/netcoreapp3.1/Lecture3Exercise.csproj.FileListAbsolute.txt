@@ -1,0 +1,14 @@
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture3Exercise\Lecture3Exercise\obj\Debug\netcoreapp3.1\Lecture3Exercise.csproj.AssemblyReference.cache
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture3Exercise\Lecture3Exercise\obj\Debug\netcoreapp3.1\Lecture3Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture3Exercise\Lecture3Exercise\obj\Debug\netcoreapp3.1\Lecture3Exercise.AssemblyInfoInputs.cache
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture3Exercise\Lecture3Exercise\obj\Debug\netcoreapp3.1\Lecture3Exercise.AssemblyInfo.cs
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture3Exercise\Lecture3Exercise\obj\Debug\netcoreapp3.1\Lecture3Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture3Exercise\Lecture3Exercise\bin\Debug\netcoreapp3.1\Lecture3Exercise.exe
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture3Exercise\Lecture3Exercise\bin\Debug\netcoreapp3.1\Lecture3Exercise.deps.json
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture3Exercise\Lecture3Exercise\bin\Debug\netcoreapp3.1\Lecture3Exercise.runtimeconfig.json
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture3Exercise\Lecture3Exercise\bin\Debug\netcoreapp3.1\Lecture3Exercise.runtimeconfig.dev.json
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture3Exercise\Lecture3Exercise\bin\Debug\netcoreapp3.1\Lecture3Exercise.dll
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture3Exercise\Lecture3Exercise\bin\Debug\netcoreapp3.1\Lecture3Exercise.pdb
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture3Exercise\Lecture3Exercise\obj\Debug\netcoreapp3.1\Lecture3Exercise.dll
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture3Exercise\Lecture3Exercise\obj\Debug\netcoreapp3.1\Lecture3Exercise.pdb
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture3Exercise\Lecture3Exercise\obj\Debug\netcoreapp3.1\Lecture3Exercise.genruntimeconfig.cache

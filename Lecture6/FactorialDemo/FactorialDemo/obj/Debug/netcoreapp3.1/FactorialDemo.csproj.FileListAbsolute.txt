@@ -1,0 +1,13 @@
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\FactorialDemo\FactorialDemo\bin\Debug\netcoreapp3.1\FactorialDemo.exe
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\FactorialDemo\FactorialDemo\bin\Debug\netcoreapp3.1\FactorialDemo.deps.json
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\FactorialDemo\FactorialDemo\bin\Debug\netcoreapp3.1\FactorialDemo.runtimeconfig.json
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\FactorialDemo\FactorialDemo\bin\Debug\netcoreapp3.1\FactorialDemo.runtimeconfig.dev.json
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\FactorialDemo\FactorialDemo\bin\Debug\netcoreapp3.1\FactorialDemo.dll
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\FactorialDemo\FactorialDemo\bin\Debug\netcoreapp3.1\FactorialDemo.pdb
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\FactorialDemo\FactorialDemo\obj\Debug\netcoreapp3.1\FactorialDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\FactorialDemo\FactorialDemo\obj\Debug\netcoreapp3.1\FactorialDemo.AssemblyInfoInputs.cache
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\FactorialDemo\FactorialDemo\obj\Debug\netcoreapp3.1\FactorialDemo.AssemblyInfo.cs
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\FactorialDemo\FactorialDemo\obj\Debug\netcoreapp3.1\FactorialDemo.csproj.CoreCompileInputs.cache
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\FactorialDemo\FactorialDemo\obj\Debug\netcoreapp3.1\FactorialDemo.dll
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\FactorialDemo\FactorialDemo\obj\Debug\netcoreapp3.1\FactorialDemo.pdb
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\FactorialDemo\FactorialDemo\obj\Debug\netcoreapp3.1\FactorialDemo.genruntimeconfig.cache

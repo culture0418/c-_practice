@@ -1,0 +1,14 @@
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture7\PointDemo\PointDemo\bin\Debug\netcoreapp3.1\PointDemo.exe
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture7\PointDemo\PointDemo\bin\Debug\netcoreapp3.1\PointDemo.deps.json
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture7\PointDemo\PointDemo\bin\Debug\netcoreapp3.1\PointDemo.runtimeconfig.json
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture7\PointDemo\PointDemo\bin\Debug\netcoreapp3.1\PointDemo.runtimeconfig.dev.json
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture7\PointDemo\PointDemo\bin\Debug\netcoreapp3.1\PointDemo.dll
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture7\PointDemo\PointDemo\bin\Debug\netcoreapp3.1\PointDemo.pdb
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture7\PointDemo\PointDemo\obj\Debug\netcoreapp3.1\PointDemo.csproj.AssemblyReference.cache
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture7\PointDemo\PointDemo\obj\Debug\netcoreapp3.1\PointDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture7\PointDemo\PointDemo\obj\Debug\netcoreapp3.1\PointDemo.AssemblyInfoInputs.cache
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture7\PointDemo\PointDemo\obj\Debug\netcoreapp3.1\PointDemo.AssemblyInfo.cs
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture7\PointDemo\PointDemo\obj\Debug\netcoreapp3.1\PointDemo.csproj.CoreCompileInputs.cache
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture7\PointDemo\PointDemo\obj\Debug\netcoreapp3.1\PointDemo.dll
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture7\PointDemo\PointDemo\obj\Debug\netcoreapp3.1\PointDemo.pdb
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture7\PointDemo\PointDemo\obj\Debug\netcoreapp3.1\PointDemo.genruntimeconfig.cache

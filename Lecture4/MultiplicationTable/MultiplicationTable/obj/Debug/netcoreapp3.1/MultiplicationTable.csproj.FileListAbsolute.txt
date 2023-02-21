@@ -1,0 +1,14 @@
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\MultiplicationTable\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.csproj.AssemblyReference.cache
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\MultiplicationTable\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\MultiplicationTable\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\MultiplicationTable\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.AssemblyInfo.cs
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\MultiplicationTable\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\MultiplicationTable\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.exe
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\MultiplicationTable\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.deps.json
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\MultiplicationTable\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.runtimeconfig.json
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\MultiplicationTable\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.runtimeconfig.dev.json
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\MultiplicationTable\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.dll
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\MultiplicationTable\MultiplicationTable\bin\Debug\netcoreapp3.1\MultiplicationTable.pdb
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\MultiplicationTable\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.dll
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\MultiplicationTable\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.pdb
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\MultiplicationTable\MultiplicationTable\obj\Debug\netcoreapp3.1\MultiplicationTable.genruntimeconfig.cache

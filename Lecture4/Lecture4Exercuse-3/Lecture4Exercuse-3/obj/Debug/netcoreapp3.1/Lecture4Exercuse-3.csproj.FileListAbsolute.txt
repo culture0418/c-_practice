@@ -1,0 +1,14 @@
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\Lecture4Exercuse-3\Lecture4Exercuse-3\bin\Debug\netcoreapp3.1\Lecture4Exercuse-3.exe
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\Lecture4Exercuse-3\Lecture4Exercuse-3\bin\Debug\netcoreapp3.1\Lecture4Exercuse-3.deps.json
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\Lecture4Exercuse-3\Lecture4Exercuse-3\bin\Debug\netcoreapp3.1\Lecture4Exercuse-3.runtimeconfig.json
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\Lecture4Exercuse-3\Lecture4Exercuse-3\bin\Debug\netcoreapp3.1\Lecture4Exercuse-3.runtimeconfig.dev.json
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\Lecture4Exercuse-3\Lecture4Exercuse-3\bin\Debug\netcoreapp3.1\Lecture4Exercuse-3.dll
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\Lecture4Exercuse-3\Lecture4Exercuse-3\bin\Debug\netcoreapp3.1\Lecture4Exercuse-3.pdb
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\Lecture4Exercuse-3\Lecture4Exercuse-3\obj\Debug\netcoreapp3.1\Lecture4Exercuse-3.csproj.AssemblyReference.cache
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\Lecture4Exercuse-3\Lecture4Exercuse-3\obj\Debug\netcoreapp3.1\Lecture4Exercuse-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\Lecture4Exercuse-3\Lecture4Exercuse-3\obj\Debug\netcoreapp3.1\Lecture4Exercuse-3.AssemblyInfoInputs.cache
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\Lecture4Exercuse-3\Lecture4Exercuse-3\obj\Debug\netcoreapp3.1\Lecture4Exercuse-3.AssemblyInfo.cs
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\Lecture4Exercuse-3\Lecture4Exercuse-3\obj\Debug\netcoreapp3.1\Lecture4Exercuse-3.csproj.CoreCompileInputs.cache
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\Lecture4Exercuse-3\Lecture4Exercuse-3\obj\Debug\netcoreapp3.1\Lecture4Exercuse-3.dll
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\Lecture4Exercuse-3\Lecture4Exercuse-3\obj\Debug\netcoreapp3.1\Lecture4Exercuse-3.pdb
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\Lecture4Exercuse-3\Lecture4Exercuse-3\obj\Debug\netcoreapp3.1\Lecture4Exercuse-3.genruntimeconfig.cache

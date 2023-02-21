@@ -1,0 +1,14 @@
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture5\ShufflingDemo\ShufflingDemo\bin\Debug\netcoreapp3.1\ShufflingDemo.exe
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture5\ShufflingDemo\ShufflingDemo\bin\Debug\netcoreapp3.1\ShufflingDemo.deps.json
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture5\ShufflingDemo\ShufflingDemo\bin\Debug\netcoreapp3.1\ShufflingDemo.runtimeconfig.json
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture5\ShufflingDemo\ShufflingDemo\bin\Debug\netcoreapp3.1\ShufflingDemo.runtimeconfig.dev.json
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture5\ShufflingDemo\ShufflingDemo\bin\Debug\netcoreapp3.1\ShufflingDemo.dll
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture5\ShufflingDemo\ShufflingDemo\bin\Debug\netcoreapp3.1\ShufflingDemo.pdb
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture5\ShufflingDemo\ShufflingDemo\obj\Debug\netcoreapp3.1\ShufflingDemo.csproj.AssemblyReference.cache
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture5\ShufflingDemo\ShufflingDemo\obj\Debug\netcoreapp3.1\ShufflingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture5\ShufflingDemo\ShufflingDemo\obj\Debug\netcoreapp3.1\ShufflingDemo.AssemblyInfoInputs.cache
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture5\ShufflingDemo\ShufflingDemo\obj\Debug\netcoreapp3.1\ShufflingDemo.AssemblyInfo.cs
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture5\ShufflingDemo\ShufflingDemo\obj\Debug\netcoreapp3.1\ShufflingDemo.csproj.CoreCompileInputs.cache
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture5\ShufflingDemo\ShufflingDemo\obj\Debug\netcoreapp3.1\ShufflingDemo.dll
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture5\ShufflingDemo\ShufflingDemo\obj\Debug\netcoreapp3.1\ShufflingDemo.pdb
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture5\ShufflingDemo\ShufflingDemo\obj\Debug\netcoreapp3.1\ShufflingDemo.genruntimeconfig.cache

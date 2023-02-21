@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M+wGS+Vauea+wwFECtksOVZKglBFeuvy9r7wLwBL8tL5K5jueWq8Yc4blm5bTJzzVALnny8tYIAunMz7u7i2LA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nicole Chen\\Documents\\大學資料\\C#\\Lecture6\\MainDemo\\MainDemo\\MainDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nicole Chen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

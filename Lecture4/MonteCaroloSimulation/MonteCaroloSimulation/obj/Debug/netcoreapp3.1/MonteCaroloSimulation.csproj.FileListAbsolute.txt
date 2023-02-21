@@ -1,0 +1,14 @@
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\MonteCaroloSimulation\MonteCaroloSimulation\bin\Debug\netcoreapp3.1\MonteCaroloSimulation.exe
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\MonteCaroloSimulation\MonteCaroloSimulation\bin\Debug\netcoreapp3.1\MonteCaroloSimulation.deps.json
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\MonteCaroloSimulation\MonteCaroloSimulation\bin\Debug\netcoreapp3.1\MonteCaroloSimulation.runtimeconfig.json
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\MonteCaroloSimulation\MonteCaroloSimulation\bin\Debug\netcoreapp3.1\MonteCaroloSimulation.runtimeconfig.dev.json
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\MonteCaroloSimulation\MonteCaroloSimulation\bin\Debug\netcoreapp3.1\MonteCaroloSimulation.dll
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\MonteCaroloSimulation\MonteCaroloSimulation\bin\Debug\netcoreapp3.1\MonteCaroloSimulation.pdb
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\MonteCaroloSimulation\MonteCaroloSimulation\obj\Debug\netcoreapp3.1\MonteCaroloSimulation.csproj.AssemblyReference.cache
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\MonteCaroloSimulation\MonteCaroloSimulation\obj\Debug\netcoreapp3.1\MonteCaroloSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\MonteCaroloSimulation\MonteCaroloSimulation\obj\Debug\netcoreapp3.1\MonteCaroloSimulation.AssemblyInfoInputs.cache
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\MonteCaroloSimulation\MonteCaroloSimulation\obj\Debug\netcoreapp3.1\MonteCaroloSimulation.AssemblyInfo.cs
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\MonteCaroloSimulation\MonteCaroloSimulation\obj\Debug\netcoreapp3.1\MonteCaroloSimulation.csproj.CoreCompileInputs.cache
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\MonteCaroloSimulation\MonteCaroloSimulation\obj\Debug\netcoreapp3.1\MonteCaroloSimulation.dll
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\MonteCaroloSimulation\MonteCaroloSimulation\obj\Debug\netcoreapp3.1\MonteCaroloSimulation.pdb
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\MonteCaroloSimulation\MonteCaroloSimulation\obj\Debug\netcoreapp3.1\MonteCaroloSimulation.genruntimeconfig.cache

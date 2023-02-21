@@ -1,0 +1,14 @@
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\GlobalLocalvariale\GlobalLocalvariale\bin\Debug\netcoreapp3.1\GlobalLocalvariale.exe
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\GlobalLocalvariale\GlobalLocalvariale\bin\Debug\netcoreapp3.1\GlobalLocalvariale.deps.json
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\GlobalLocalvariale\GlobalLocalvariale\bin\Debug\netcoreapp3.1\GlobalLocalvariale.runtimeconfig.json
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\GlobalLocalvariale\GlobalLocalvariale\bin\Debug\netcoreapp3.1\GlobalLocalvariale.runtimeconfig.dev.json
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\GlobalLocalvariale\GlobalLocalvariale\bin\Debug\netcoreapp3.1\GlobalLocalvariale.dll
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\GlobalLocalvariale\GlobalLocalvariale\bin\Debug\netcoreapp3.1\GlobalLocalvariale.pdb
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\GlobalLocalvariale\GlobalLocalvariale\obj\Debug\netcoreapp3.1\GlobalLocalvariale.csproj.AssemblyReference.cache
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\GlobalLocalvariale\GlobalLocalvariale\obj\Debug\netcoreapp3.1\GlobalLocalvariale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\GlobalLocalvariale\GlobalLocalvariale\obj\Debug\netcoreapp3.1\GlobalLocalvariale.AssemblyInfoInputs.cache
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\GlobalLocalvariale\GlobalLocalvariale\obj\Debug\netcoreapp3.1\GlobalLocalvariale.AssemblyInfo.cs
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\GlobalLocalvariale\GlobalLocalvariale\obj\Debug\netcoreapp3.1\GlobalLocalvariale.csproj.CoreCompileInputs.cache
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\GlobalLocalvariale\GlobalLocalvariale\obj\Debug\netcoreapp3.1\GlobalLocalvariale.dll
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\GlobalLocalvariale\GlobalLocalvariale\obj\Debug\netcoreapp3.1\GlobalLocalvariale.pdb
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\GlobalLocalvariale\GlobalLocalvariale\obj\Debug\netcoreapp3.1\GlobalLocalvariale.genruntimeconfig.cache

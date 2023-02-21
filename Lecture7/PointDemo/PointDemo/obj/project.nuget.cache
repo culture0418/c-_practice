@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BXiwDt08nGiq2Cw8SBCiAtSjoyZkmVbJM3g5p2Xt1OwtOzpBNskEvtO90AvTpAI/v6SD8ISmzXSXNPrrCyPAgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nicole Chen\\Documents\\大學資料\\C#\\Lecture7\\PointDemo\\PointDemo\\PointDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nicole Chen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

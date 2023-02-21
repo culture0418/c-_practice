@@ -1,0 +1,14 @@
+C:\Users\Nicole Chen\Documents\大學資料\C#\CharactersandString\CharactersandString\bin\Debug\netcoreapp3.1\CharactersandString.exe
+C:\Users\Nicole Chen\Documents\大學資料\C#\CharactersandString\CharactersandString\bin\Debug\netcoreapp3.1\CharactersandString.deps.json
+C:\Users\Nicole Chen\Documents\大學資料\C#\CharactersandString\CharactersandString\bin\Debug\netcoreapp3.1\CharactersandString.runtimeconfig.json
+C:\Users\Nicole Chen\Documents\大學資料\C#\CharactersandString\CharactersandString\bin\Debug\netcoreapp3.1\CharactersandString.runtimeconfig.dev.json
+C:\Users\Nicole Chen\Documents\大學資料\C#\CharactersandString\CharactersandString\bin\Debug\netcoreapp3.1\CharactersandString.dll
+C:\Users\Nicole Chen\Documents\大學資料\C#\CharactersandString\CharactersandString\bin\Debug\netcoreapp3.1\CharactersandString.pdb
+C:\Users\Nicole Chen\Documents\大學資料\C#\CharactersandString\CharactersandString\obj\Debug\netcoreapp3.1\CharactersandString.csproj.AssemblyReference.cache
+C:\Users\Nicole Chen\Documents\大學資料\C#\CharactersandString\CharactersandString\obj\Debug\netcoreapp3.1\CharactersandString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicole Chen\Documents\大學資料\C#\CharactersandString\CharactersandString\obj\Debug\netcoreapp3.1\CharactersandString.AssemblyInfoInputs.cache
+C:\Users\Nicole Chen\Documents\大學資料\C#\CharactersandString\CharactersandString\obj\Debug\netcoreapp3.1\CharactersandString.AssemblyInfo.cs
+C:\Users\Nicole Chen\Documents\大學資料\C#\CharactersandString\CharactersandString\obj\Debug\netcoreapp3.1\CharactersandString.csproj.CoreCompileInputs.cache
+C:\Users\Nicole Chen\Documents\大學資料\C#\CharactersandString\CharactersandString\obj\Debug\netcoreapp3.1\CharactersandString.dll
+C:\Users\Nicole Chen\Documents\大學資料\C#\CharactersandString\CharactersandString\obj\Debug\netcoreapp3.1\CharactersandString.pdb
+C:\Users\Nicole Chen\Documents\大學資料\C#\CharactersandString\CharactersandString\obj\Debug\netcoreapp3.1\CharactersandString.genruntimeconfig.cache

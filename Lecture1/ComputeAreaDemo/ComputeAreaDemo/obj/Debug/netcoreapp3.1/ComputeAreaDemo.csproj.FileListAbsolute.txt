@@ -1,0 +1,14 @@
+C:\Users\Nicole Chen\Documents\大學資料\C#\ComputeAreaDemo\ComputeAreaDemo\bin\Debug\netcoreapp3.1\ComputeAreaDemo.exe
+C:\Users\Nicole Chen\Documents\大學資料\C#\ComputeAreaDemo\ComputeAreaDemo\bin\Debug\netcoreapp3.1\ComputeAreaDemo.deps.json
+C:\Users\Nicole Chen\Documents\大學資料\C#\ComputeAreaDemo\ComputeAreaDemo\bin\Debug\netcoreapp3.1\ComputeAreaDemo.runtimeconfig.json
+C:\Users\Nicole Chen\Documents\大學資料\C#\ComputeAreaDemo\ComputeAreaDemo\bin\Debug\netcoreapp3.1\ComputeAreaDemo.runtimeconfig.dev.json
+C:\Users\Nicole Chen\Documents\大學資料\C#\ComputeAreaDemo\ComputeAreaDemo\bin\Debug\netcoreapp3.1\ComputeAreaDemo.dll
+C:\Users\Nicole Chen\Documents\大學資料\C#\ComputeAreaDemo\ComputeAreaDemo\bin\Debug\netcoreapp3.1\ComputeAreaDemo.pdb
+C:\Users\Nicole Chen\Documents\大學資料\C#\ComputeAreaDemo\ComputeAreaDemo\obj\Debug\netcoreapp3.1\ComputeAreaDemo.csproj.AssemblyReference.cache
+C:\Users\Nicole Chen\Documents\大學資料\C#\ComputeAreaDemo\ComputeAreaDemo\obj\Debug\netcoreapp3.1\ComputeAreaDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicole Chen\Documents\大學資料\C#\ComputeAreaDemo\ComputeAreaDemo\obj\Debug\netcoreapp3.1\ComputeAreaDemo.AssemblyInfoInputs.cache
+C:\Users\Nicole Chen\Documents\大學資料\C#\ComputeAreaDemo\ComputeAreaDemo\obj\Debug\netcoreapp3.1\ComputeAreaDemo.AssemblyInfo.cs
+C:\Users\Nicole Chen\Documents\大學資料\C#\ComputeAreaDemo\ComputeAreaDemo\obj\Debug\netcoreapp3.1\ComputeAreaDemo.csproj.CoreCompileInputs.cache
+C:\Users\Nicole Chen\Documents\大學資料\C#\ComputeAreaDemo\ComputeAreaDemo\obj\Debug\netcoreapp3.1\ComputeAreaDemo.dll
+C:\Users\Nicole Chen\Documents\大學資料\C#\ComputeAreaDemo\ComputeAreaDemo\obj\Debug\netcoreapp3.1\ComputeAreaDemo.pdb
+C:\Users\Nicole Chen\Documents\大學資料\C#\ComputeAreaDemo\ComputeAreaDemo\obj\Debug\netcoreapp3.1\ComputeAreaDemo.genruntimeconfig.cache

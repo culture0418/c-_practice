@@ -1,0 +1,14 @@
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\PrimalityTest\PrimalityTest\bin\Debug\netcoreapp3.1\PrimalityTest.exe
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\PrimalityTest\PrimalityTest\bin\Debug\netcoreapp3.1\PrimalityTest.deps.json
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\PrimalityTest\PrimalityTest\bin\Debug\netcoreapp3.1\PrimalityTest.runtimeconfig.json
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\PrimalityTest\PrimalityTest\bin\Debug\netcoreapp3.1\PrimalityTest.runtimeconfig.dev.json
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\PrimalityTest\PrimalityTest\bin\Debug\netcoreapp3.1\PrimalityTest.dll
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\PrimalityTest\PrimalityTest\bin\Debug\netcoreapp3.1\PrimalityTest.pdb
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\PrimalityTest\PrimalityTest\obj\Debug\netcoreapp3.1\PrimalityTest.csproj.AssemblyReference.cache
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\PrimalityTest\PrimalityTest\obj\Debug\netcoreapp3.1\PrimalityTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\PrimalityTest\PrimalityTest\obj\Debug\netcoreapp3.1\PrimalityTest.AssemblyInfoInputs.cache
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\PrimalityTest\PrimalityTest\obj\Debug\netcoreapp3.1\PrimalityTest.AssemblyInfo.cs
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\PrimalityTest\PrimalityTest\obj\Debug\netcoreapp3.1\PrimalityTest.csproj.CoreCompileInputs.cache
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\PrimalityTest\PrimalityTest\obj\Debug\netcoreapp3.1\PrimalityTest.dll
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\PrimalityTest\PrimalityTest\obj\Debug\netcoreapp3.1\PrimalityTest.pdb
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\PrimalityTest\PrimalityTest\obj\Debug\netcoreapp3.1\PrimalityTest.genruntimeconfig.cache

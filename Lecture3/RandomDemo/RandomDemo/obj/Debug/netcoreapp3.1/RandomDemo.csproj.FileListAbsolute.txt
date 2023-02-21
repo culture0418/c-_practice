@@ -1,0 +1,14 @@
+C:\Users\Nicole Chen\Documents\大學資料\C#\RandomDemo\RandomDemo\bin\Debug\netcoreapp3.1\RandomDemo.exe
+C:\Users\Nicole Chen\Documents\大學資料\C#\RandomDemo\RandomDemo\bin\Debug\netcoreapp3.1\RandomDemo.deps.json
+C:\Users\Nicole Chen\Documents\大學資料\C#\RandomDemo\RandomDemo\bin\Debug\netcoreapp3.1\RandomDemo.runtimeconfig.json
+C:\Users\Nicole Chen\Documents\大學資料\C#\RandomDemo\RandomDemo\bin\Debug\netcoreapp3.1\RandomDemo.runtimeconfig.dev.json
+C:\Users\Nicole Chen\Documents\大學資料\C#\RandomDemo\RandomDemo\bin\Debug\netcoreapp3.1\RandomDemo.dll
+C:\Users\Nicole Chen\Documents\大學資料\C#\RandomDemo\RandomDemo\bin\Debug\netcoreapp3.1\RandomDemo.pdb
+C:\Users\Nicole Chen\Documents\大學資料\C#\RandomDemo\RandomDemo\obj\Debug\netcoreapp3.1\RandomDemo.csproj.AssemblyReference.cache
+C:\Users\Nicole Chen\Documents\大學資料\C#\RandomDemo\RandomDemo\obj\Debug\netcoreapp3.1\RandomDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicole Chen\Documents\大學資料\C#\RandomDemo\RandomDemo\obj\Debug\netcoreapp3.1\RandomDemo.AssemblyInfoInputs.cache
+C:\Users\Nicole Chen\Documents\大學資料\C#\RandomDemo\RandomDemo\obj\Debug\netcoreapp3.1\RandomDemo.AssemblyInfo.cs
+C:\Users\Nicole Chen\Documents\大學資料\C#\RandomDemo\RandomDemo\obj\Debug\netcoreapp3.1\RandomDemo.csproj.CoreCompileInputs.cache
+C:\Users\Nicole Chen\Documents\大學資料\C#\RandomDemo\RandomDemo\obj\Debug\netcoreapp3.1\RandomDemo.dll
+C:\Users\Nicole Chen\Documents\大學資料\C#\RandomDemo\RandomDemo\obj\Debug\netcoreapp3.1\RandomDemo.pdb
+C:\Users\Nicole Chen\Documents\大學資料\C#\RandomDemo\RandomDemo\obj\Debug\netcoreapp3.1\RandomDemo.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cyjA7dVIW9tZpvZ1N9E/b24xsGNKKpvcjazq11ZT3IH7SM0vrfKUQjI+12S3/puex8ItYibXvWq6i6XilXcJkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nicole Chen\\Documents\\大學資料\\C#\\Lecture6\\GCDDemo\\GCDDemo\\GCDDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nicole Chen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\BisectionDemo\BisectionDemo\bin\Debug\netcoreapp3.1\BisectionDemo.exe
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\BisectionDemo\BisectionDemo\bin\Debug\netcoreapp3.1\BisectionDemo.deps.json
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\BisectionDemo\BisectionDemo\bin\Debug\netcoreapp3.1\BisectionDemo.runtimeconfig.json
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\BisectionDemo\BisectionDemo\bin\Debug\netcoreapp3.1\BisectionDemo.runtimeconfig.dev.json
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\BisectionDemo\BisectionDemo\bin\Debug\netcoreapp3.1\BisectionDemo.dll
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\BisectionDemo\BisectionDemo\bin\Debug\netcoreapp3.1\BisectionDemo.pdb
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\BisectionDemo\BisectionDemo\obj\Debug\netcoreapp3.1\BisectionDemo.csproj.AssemblyReference.cache
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\BisectionDemo\BisectionDemo\obj\Debug\netcoreapp3.1\BisectionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\BisectionDemo\BisectionDemo\obj\Debug\netcoreapp3.1\BisectionDemo.AssemblyInfoInputs.cache
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\BisectionDemo\BisectionDemo\obj\Debug\netcoreapp3.1\BisectionDemo.AssemblyInfo.cs
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\BisectionDemo\BisectionDemo\obj\Debug\netcoreapp3.1\BisectionDemo.csproj.CoreCompileInputs.cache
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\BisectionDemo\BisectionDemo\obj\Debug\netcoreapp3.1\BisectionDemo.dll
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\BisectionDemo\BisectionDemo\obj\Debug\netcoreapp3.1\BisectionDemo.pdb
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture4\BisectionDemo\BisectionDemo\obj\Debug\netcoreapp3.1\BisectionDemo.genruntimeconfig.cache

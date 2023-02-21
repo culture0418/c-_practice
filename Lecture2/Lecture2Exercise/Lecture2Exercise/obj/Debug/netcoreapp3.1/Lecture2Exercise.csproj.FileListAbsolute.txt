@@ -1,0 +1,14 @@
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture2Exercise\Lecture2Exercise\bin\Debug\netcoreapp3.1\Lecture2Exercise.exe
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture2Exercise\Lecture2Exercise\bin\Debug\netcoreapp3.1\Lecture2Exercise.deps.json
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture2Exercise\Lecture2Exercise\bin\Debug\netcoreapp3.1\Lecture2Exercise.runtimeconfig.json
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture2Exercise\Lecture2Exercise\bin\Debug\netcoreapp3.1\Lecture2Exercise.runtimeconfig.dev.json
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture2Exercise\Lecture2Exercise\bin\Debug\netcoreapp3.1\Lecture2Exercise.dll
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture2Exercise\Lecture2Exercise\bin\Debug\netcoreapp3.1\Lecture2Exercise.pdb
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture2Exercise\Lecture2Exercise\obj\Debug\netcoreapp3.1\Lecture2Exercise.csproj.AssemblyReference.cache
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture2Exercise\Lecture2Exercise\obj\Debug\netcoreapp3.1\Lecture2Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture2Exercise\Lecture2Exercise\obj\Debug\netcoreapp3.1\Lecture2Exercise.AssemblyInfoInputs.cache
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture2Exercise\Lecture2Exercise\obj\Debug\netcoreapp3.1\Lecture2Exercise.AssemblyInfo.cs
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture2Exercise\Lecture2Exercise\obj\Debug\netcoreapp3.1\Lecture2Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture2Exercise\Lecture2Exercise\obj\Debug\netcoreapp3.1\Lecture2Exercise.dll
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture2Exercise\Lecture2Exercise\obj\Debug\netcoreapp3.1\Lecture2Exercise.pdb
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture2Exercise\Lecture2Exercise\obj\Debug\netcoreapp3.1\Lecture2Exercise.genruntimeconfig.cache

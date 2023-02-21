@@ -1,0 +1,14 @@
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\SwapDemo\SwapDemo\bin\Debug\netcoreapp3.1\SwapDemo.exe
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\SwapDemo\SwapDemo\bin\Debug\netcoreapp3.1\SwapDemo.deps.json
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\SwapDemo\SwapDemo\bin\Debug\netcoreapp3.1\SwapDemo.runtimeconfig.json
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\SwapDemo\SwapDemo\bin\Debug\netcoreapp3.1\SwapDemo.runtimeconfig.dev.json
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\SwapDemo\SwapDemo\bin\Debug\netcoreapp3.1\SwapDemo.dll
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\SwapDemo\SwapDemo\bin\Debug\netcoreapp3.1\SwapDemo.pdb
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\SwapDemo\SwapDemo\obj\Debug\netcoreapp3.1\SwapDemo.csproj.AssemblyReference.cache
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\SwapDemo\SwapDemo\obj\Debug\netcoreapp3.1\SwapDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\SwapDemo\SwapDemo\obj\Debug\netcoreapp3.1\SwapDemo.AssemblyInfoInputs.cache
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\SwapDemo\SwapDemo\obj\Debug\netcoreapp3.1\SwapDemo.AssemblyInfo.cs
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\SwapDemo\SwapDemo\obj\Debug\netcoreapp3.1\SwapDemo.csproj.CoreCompileInputs.cache
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\SwapDemo\SwapDemo\obj\Debug\netcoreapp3.1\SwapDemo.dll
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\SwapDemo\SwapDemo\obj\Debug\netcoreapp3.1\SwapDemo.pdb
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\SwapDemo\SwapDemo\obj\Debug\netcoreapp3.1\SwapDemo.genruntimeconfig.cache

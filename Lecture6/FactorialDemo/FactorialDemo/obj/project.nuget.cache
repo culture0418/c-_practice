@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TcrzYz+BYh5IuJE1HCk40c3sBUBREdmVeqkyEDYQPNFV/fmzsVDw8bS98nfxY3HLVed8BXY4t2TMRZjdFRuaDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nicole Chen\\Documents\\大學資料\\C#\\Lecture6\\FactorialDemo\\FactorialDemo\\FactorialDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nicole Chen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

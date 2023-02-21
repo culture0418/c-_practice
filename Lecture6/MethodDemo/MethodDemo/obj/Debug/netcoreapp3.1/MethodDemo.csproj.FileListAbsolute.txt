@@ -1,0 +1,14 @@
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\MethodDemo\MethodDemo\obj\Debug\netcoreapp3.1\MethodDemo.csproj.AssemblyReference.cache
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\MethodDemo\MethodDemo\obj\Debug\netcoreapp3.1\MethodDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\MethodDemo\MethodDemo\obj\Debug\netcoreapp3.1\MethodDemo.AssemblyInfoInputs.cache
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\MethodDemo\MethodDemo\obj\Debug\netcoreapp3.1\MethodDemo.AssemblyInfo.cs
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\MethodDemo\MethodDemo\obj\Debug\netcoreapp3.1\MethodDemo.csproj.CoreCompileInputs.cache
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\MethodDemo\MethodDemo\bin\Debug\netcoreapp3.1\MethodDemo.exe
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\MethodDemo\MethodDemo\bin\Debug\netcoreapp3.1\MethodDemo.deps.json
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\MethodDemo\MethodDemo\bin\Debug\netcoreapp3.1\MethodDemo.runtimeconfig.json
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\MethodDemo\MethodDemo\bin\Debug\netcoreapp3.1\MethodDemo.runtimeconfig.dev.json
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\MethodDemo\MethodDemo\bin\Debug\netcoreapp3.1\MethodDemo.dll
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\MethodDemo\MethodDemo\bin\Debug\netcoreapp3.1\MethodDemo.pdb
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\MethodDemo\MethodDemo\obj\Debug\netcoreapp3.1\MethodDemo.dll
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\MethodDemo\MethodDemo\obj\Debug\netcoreapp3.1\MethodDemo.pdb
+C:\Users\Nicole Chen\Documents\大學資料\C#\Lecture6\MethodDemo\MethodDemo\obj\Debug\netcoreapp3.1\MethodDemo.genruntimeconfig.cache
